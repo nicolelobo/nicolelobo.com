@@ -6,3 +6,12 @@
  */
 
 /*use this file to overwrite the default css styling*/
+
+/*Temp hack to fix spacing.*/
+#welcome {
+  padding-bottom: 0px;
+}
+
+#offers {
+  padding-top: 0px;
+}
